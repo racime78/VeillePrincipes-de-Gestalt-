@@ -12,30 +12,28 @@ https://datascientest.com/veille-technologique-definition
 https://jobphoning.com/dictionnaire/veille-technologique#
 
 
-La veille technologique se déroule et se divise en 3 étapes :
-1.	acquisition d’informations : prise de conscience, détection & accès aux sources
-2.	transmission & stockage : gestion interne
-3.	synthèse des informations collectées 
-
-Une veille technologique complète comporte plusieurs activités, dont :
-1.	la sélection de plusieurs sources d'informations, de catégories diverses ;
-2.	l'acquisition de l'information par un travail d'investigation ;
-3.	la synthèse de l'information recueillie, qui permet de l’analyser et de ne garder que le plus pertinent ;
-4.	la restitution de l'information aux autres membres de son équipe ou de l'entreprise ;
+La veille technologique se déroule et se divise en 5 étapes :
+1.	Acquisition d’informations : la sélection de plusieurs sources d'informations, de catégories diverses
+2.	La synthèse de l'information recueillie, qui permet de l’analyser et de ne garder que le plus pertinent ;
+3.	L’acquisition de l'information par un travail d'investigation ;
+4.	La synthèse de l'information recueillie, qui permet de l’analyser et de ne garder que le plus pertinent ;
 5.	l'archivage de l'information pour qu'elle soit facile à retrouver et à consulter.
+
 
 Source (paragraphe au-dessus) : 
 https://jobphoning.com/dictionnaire/veille-technologique#
 https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
 
 
+
+L'importance de commencer un projet par une veille : 
+
 Lors d'un projet en sciences de l’ingénieur (SI), on va forcément être amené à effectuer à plusieurs reprises des recherches pour trouver des informations techniques, des idées, des bibliothèques logiciels, commander des composants, etc.
-L’importance du moment de la veille technologique
 Il est possible d'effectuer cette recherche en cours de projet. Il se peut cependant qu’on découvre tardivement une nouvelle technique durant le projet.
 On peut alors se trouver dans l’une des situations suivantes.
 -	Cette technique n'est plus utilisable, car le projet est trop avancé.
 -	On a utilisé beaucoup d’énergie pour maitriser une autre technique, moins bonne, mais qu'on hésite à abandonner.
--	Cette technique est encore utilisable, mais cela va faire perdre du temps au groupe de l'inclure dans le projet.
+-	Cette technique est encore utilisable, mais cela va faire perdre du temps de l'inclure dans le projet.
 
 Source (paragraphe au-dessus) : https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
 
