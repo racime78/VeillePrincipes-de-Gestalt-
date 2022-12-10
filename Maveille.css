@@ -8,22 +8,7 @@
   
 }
 
-p
-{
-    text-align: center;
-    text-justify: auto;
-    padding: 15px;
-    font-size: larger;
-}
-
-li
-{
-    text-justify: auto;
-    padding: 15px;
-    font-size: larger;
-}
-
-.intro h1
+h1
 {
     font-size: 50px;
     background-color: green;
@@ -42,11 +27,36 @@ li
     text-decoration: underline;
 }
 
-.intro h3
+h3
 {
     text-align: center;
     background-color: aquamarine;
     text-decoration: underline;
+}
+
+p
+{
+    text-align: center;
+    text-align: justify;
+    padding: 15px;
+    font-size: larger;
+}
+
+li
+{
+    text-justify: auto;
+    padding: 15px;
+    font-size: larger;
+}
+
+
+
+.intro
+{
+    padding-right: 200px;
+    padding-left: 200px;    
+    background-color: red;
+    
 }
 
 .intro .etape p
@@ -63,11 +73,17 @@ li
     text-decoration: underline;
 }
 
-
-.intro
+.sujet
 {
     padding-right: 200px;
-    padding-left: 200px;    
-    background-color: red;
-    
+    padding-left: 200px; 
+    background-color: yellow;
 }
+
+.sujet .principe
+{
+    display: flex;
+    justify-content: center;
+}
+
+
