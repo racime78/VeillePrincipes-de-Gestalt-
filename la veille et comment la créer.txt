@@ -1,20 +1,21 @@
 Qu’Est-ce qu’une veille technologique : 
 La veille technologique est, pour Steven C. Wheelwright – ancien professeur émérite de l’université de Harvard – “constituée par l’ensemble des techniques visant à organiser de façon systématique la collecte, l’analyse, la diffusion de l’exploitation des informations techniques utiles à la sauvegarde et à la croissance des entreprises”. 
 La veille technologique se doit de prévenir et alerter tout responsable d’un changement, d’une nouveauté ou d’une innovation qu’elle soit technique ou scientifique. Dès lors qu’elle peut modifier le paysage ou faire perdre / gagner un avantage économique, la veille devient critique et doit intervenir le plus tôt possible. 
-La veille technologique se déroule et se divise en 3 étapes :
-1.	acquisition d’informations : prise de conscience, détection & accès aux sources
-2.	transmission & stockage : gestion interne
-3.	synthèse des informations collectées 
-
-Source (paragraphe au-dessus) : https://datascientest.com/veille-technologique-definition
-
 Dans quel contexte applique-t-on la veille technologique ?
 La veille technologique est une veille spécifique, sa mise en place permet d’étudier l’évolution de sujets et secteurs en mutation permanente. Cette action permet ainsi à une entreprise de suivre le développement et l’apparition de nouvelles technologiques pouvant considérablement influer sur son activité.
 Elle permet également de rester en permanence informé lorsque l’entreprise évolue dans des contextes où les usages et les nouveaux acteurs changent souvent.
 A noter que la veille technologique peut être considérée comme un outil d’objectivité en termes de stratégie de développement. En effet, des entreprises ayant un service de recherche et développement ont un besoin permanent de veille technologique face à leur objectif d’innovation constant. D’autres domaines sont concernés par la nécessité de ce type de veille, notamment le marketing, les bureaux d’études, les services commerciaux, etc.
 
-Source (paragraphe au-dessus) : https://jobphoning.com/dictionnaire/veille-technologique#
 
+Source (paragraphe au-dessus) : 
+https://datascientest.com/veille-technologique-definition
+https://jobphoning.com/dictionnaire/veille-technologique#
+
+
+La veille technologique se déroule et se divise en 3 étapes :
+1.	acquisition d’informations : prise de conscience, détection & accès aux sources
+2.	transmission & stockage : gestion interne
+3.	synthèse des informations collectées 
 
 Une veille technologique complète comporte plusieurs activités, dont :
 1.	la sélection de plusieurs sources d'informations, de catégories diverses ;
@@ -22,6 +23,11 @@ Une veille technologique complète comporte plusieurs activités, dont :
 3.	la synthèse de l'information recueillie, qui permet de l’analyser et de ne garder que le plus pertinent ;
 4.	la restitution de l'information aux autres membres de son équipe ou de l'entreprise ;
 5.	l'archivage de l'information pour qu'elle soit facile à retrouver et à consulter.
+
+Source (paragraphe au-dessus) : 
+https://jobphoning.com/dictionnaire/veille-technologique#
+https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
+
 
 Lors d'un projet en sciences de l’ingénieur (SI), on va forcément être amené à effectuer à plusieurs reprises des recherches pour trouver des informations techniques, des idées, des bibliothèques logiciels, commander des composants, etc.
 L’importance du moment de la veille technologique
