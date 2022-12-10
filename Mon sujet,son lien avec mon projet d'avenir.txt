@@ -1,0 +1,59 @@
+Mon sujet : Le principe de Gestalt utilisé en web design (Data Visualisation / UX Design.)
+
+
+Intro :
+
+Votre cerveau essaie toujours de donner un sens au monde en comparant des expériences ou des schémas visuels antérieurs et en reliant les points . Il a sa propre façon « étrange » de percevoir la forme et la forme, de regrouper les informations, de combler les lacunes pour dessiner une vue d'ensemble .
+
+En allemand, le terme « gestalt » signifie « modeler, mettre en forme, donner une structure signifiante ». Pour simplifier on le traduit par une « forme » qui peut être un paysage, une expérience ou encore – et c’est ce qui nous intéresse ici – une visualisation de donnée.
+
+Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié »
+
+Quest-ce que le principe de Gestalt : 
+
+
+La Gestalt est une théorie de la Forme (théorisée en 1920 par Max Wertheimer, Wolfgang Köhler et Kurt Koffka): elle vise à identifier une Forme qui cherche à émerger du Fond. Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié » quand certains principes s’appliquent.
+
+
+Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié » quand certains principes s’appliquent.
+
+Les 6 principes fondamentaux
+La Gestalt repose sur 6 principes fondamentaux de la perception humaine
+
+Le principe de continuité
+L’oeil est contraint d’aller d’un objet à un autre
+
+"Image a placer" : https://tse3.mm.bing.net/th?id=OIP.PirhZS1MnQ0K7Z1ur-IrfwAAAA&pid=Api&P=0
+
+Le principe de clôture
+L’esprit clôt une forme incomplète ou un espace non fermé
+
+"Image a placer" : https://whitecom.com.br/blog/wp-content/uploads/2017/01/moving-dot-dog.gif
+
+Le principe de similarité
+Lorsque 2 objets se ressemblent, l’esprit tend à les percevoir comme un groupe
+
+"Image a placer" : https://www.usertesting.com/sites/default/files/inline-images/gestalt-similarity1_0.png
+
+Le principe de proximité
+L’esprit imagine naturellement une relation entre 2 objet proche l’un de l’autre
+
+"Image a placer" : https://vidi.no/wp-content/uploads/2020/05/gestalt-naerhet-768x322.png
+
+Le principe de symétrie
+L’oeil associe 2 objets symétriques comme un même groupe unifié
+
+"Image a placer" : https://vidi.no/wp-content/uploads/2020/05/symmetri.png
+
+Le principe figure-fond
+L’esprit sépare naturellement un objet de son fond (background)
+
+"Image a placer" : https://tse4.mm.bing.net/th?id=OIP.SqRpznuTeQK_Qh4837_YqQHaIO&pid=Api&P=0
+
+
+Source : 
+https://datastudiofr.com/les-6-principes-de-la-gestalt/
+https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+https://vidi.no/fr/blog-fr/gestaltprinsipper-i-ui-design/
+
+
