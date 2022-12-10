@@ -1,0 +1,73 @@
+
+*
+{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  list-style: none;
+  
+}
+
+p
+{
+    text-align: center;
+    text-justify: auto;
+    padding: 15px;
+    font-size: larger;
+}
+
+li
+{
+    text-justify: auto;
+    padding: 15px;
+    font-size: larger;
+}
+
+.intro h1
+{
+    font-size: 50px;
+    background-color: green;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-decoration: underline;
+}
+
+ h2
+{
+    font-size: 30px;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.intro h3
+{
+    text-align: center;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+.intro .etape p
+{
+    padding-top: 5px;
+    text-align: center;
+
+}
+
+.intro .etape h3
+{
+    text-align: center;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+
+.intro
+{
+    padding-right: 200px;
+    padding-left: 200px;    
+    background-color: red;
+    
+}

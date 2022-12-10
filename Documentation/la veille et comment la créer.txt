@@ -46,11 +46,10 @@ Les principaux outils pour créer une veille :
 -	Suivre l’actualité et les publications de médias,personnes,société ou communauté grâce a leur site/blog/forum
 -	Utiliser des outils de veille en ligne utilisant des newsteller ou des flux RSS (exemple feedly)
 -	Utiliser les réseaux sociaux qui sont aussi un bon outil de veille 
--	INPI, INSEE, etc.) ;
+-	INPI, INSEE, etc..
 
 Source (paragraphe au-dessus) : 
 https://blog.link-value.fr/top-des-sources-tech-%C3%A0-suivre-pour-faire-sa-veille-technologique-8d6e5a1b3373
-
 https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
  
 
