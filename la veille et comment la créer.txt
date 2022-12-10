@@ -1,0 +1,53 @@
+Qu’Est-ce qu’une veille technologique : 
+La veille technologique est, pour Steven C. Wheelwright – ancien professeur émérite de l’université de Harvard – “constituée par l’ensemble des techniques visant à organiser de façon systématique la collecte, l’analyse, la diffusion de l’exploitation des informations techniques utiles à la sauvegarde et à la croissance des entreprises”. 
+La veille technologique se doit de prévenir et alerter tout responsable d’un changement, d’une nouveauté ou d’une innovation qu’elle soit technique ou scientifique. Dès lors qu’elle peut modifier le paysage ou faire perdre / gagner un avantage économique, la veille devient critique et doit intervenir le plus tôt possible. 
+La veille technologique se déroule et se divise en 3 étapes :
+1.	acquisition d’informations : prise de conscience, détection & accès aux sources
+2.	transmission & stockage : gestion interne
+3.	synthèse des informations collectées 
+
+Source (paragraphe au-dessus) : https://datascientest.com/veille-technologique-definition
+
+Dans quel contexte applique-t-on la veille technologique ?
+La veille technologique est une veille spécifique, sa mise en place permet d’étudier l’évolution de sujets et secteurs en mutation permanente. Cette action permet ainsi à une entreprise de suivre le développement et l’apparition de nouvelles technologiques pouvant considérablement influer sur son activité.
+Elle permet également de rester en permanence informé lorsque l’entreprise évolue dans des contextes où les usages et les nouveaux acteurs changent souvent.
+A noter que la veille technologique peut être considérée comme un outil d’objectivité en termes de stratégie de développement. En effet, des entreprises ayant un service de recherche et développement ont un besoin permanent de veille technologique face à leur objectif d’innovation constant. D’autres domaines sont concernés par la nécessité de ce type de veille, notamment le marketing, les bureaux d’études, les services commerciaux, etc.
+
+Source (paragraphe au-dessus) : https://jobphoning.com/dictionnaire/veille-technologique#
+
+
+Une veille technologique complète comporte plusieurs activités, dont :
+1.	la sélection de plusieurs sources d'informations, de catégories diverses ;
+2.	l'acquisition de l'information par un travail d'investigation ;
+3.	la synthèse de l'information recueillie, qui permet de l’analyser et de ne garder que le plus pertinent ;
+4.	la restitution de l'information aux autres membres de son équipe ou de l'entreprise ;
+5.	l'archivage de l'information pour qu'elle soit facile à retrouver et à consulter.
+
+Lors d'un projet en sciences de l’ingénieur (SI), on va forcément être amené à effectuer à plusieurs reprises des recherches pour trouver des informations techniques, des idées, des bibliothèques logiciels, commander des composants, etc.
+L’importance du moment de la veille technologique
+Il est possible d'effectuer cette recherche en cours de projet. Il se peut cependant qu’on découvre tardivement une nouvelle technique durant le projet.
+On peut alors se trouver dans l’une des situations suivantes.
+-	Cette technique n'est plus utilisable, car le projet est trop avancé.
+-	On a utilisé beaucoup d’énergie pour maitriser une autre technique, moins bonne, mais qu'on hésite à abandonner.
+-	Cette technique est encore utilisable, mais cela va faire perdre du temps au groupe de l'inclure dans le projet.
+
+Source (paragraphe au-dessus) : https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
+
+Les principaux outils pour créer une veille : 
+-	Assister à des conférences, des meetup ou d’autres évènements pros comme des salon dans le domaine que l’on étudie
+-	Participer a des formations en ligne ou en présentiel
+-	Se documenter grâce à des livres, des articles de presse ou des podcasts 
+-	L’échange humain
+-	Regardez des Lives 
+-	Suivre l’actualité et les publications de médias,personnes,société ou communauté grâce a leur site/blog/forum
+-	Utiliser des outils de veille en ligne utilisant des newsteller ou des flux RSS (exemple feedly)
+-	Utiliser les réseaux sociaux qui sont aussi un bon outil de veille 
+-	INPI, INSEE, etc.) ;
+
+Source (paragraphe au-dessus) : 
+https://blog.link-value.fr/top-des-sources-tech-%C3%A0-suivre-pour-faire-sa-veille-technologique-8d6e5a1b3373
+
+https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
+ 
+
+ 
