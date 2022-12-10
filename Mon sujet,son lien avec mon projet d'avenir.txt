@@ -18,34 +18,41 @@ La Gestalt est une théorie de la Forme (théorisée en 1920 par Max Wertheimer,
 Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié » quand certains principes s’appliquent.
 
 Les 6 principes fondamentaux
-La Gestalt repose sur 6 principes fondamentaux de la perception humaine
+
+La Gestalt repose sur 6 principes fondamentaux de la perception humaine : 
 
 Le principe de continuité
+
 L’oeil est contraint d’aller d’un objet à un autre
 
 "Image a placer" : https://tse3.mm.bing.net/th?id=OIP.PirhZS1MnQ0K7Z1ur-IrfwAAAA&pid=Api&P=0
 
 Le principe de clôture
+
 L’esprit clôt une forme incomplète ou un espace non fermé
 
 "Image a placer" : https://whitecom.com.br/blog/wp-content/uploads/2017/01/moving-dot-dog.gif
 
 Le principe de similarité
+
 Lorsque 2 objets se ressemblent, l’esprit tend à les percevoir comme un groupe
 
 "Image a placer" : https://www.usertesting.com/sites/default/files/inline-images/gestalt-similarity1_0.png
 
 Le principe de proximité
+
 L’esprit imagine naturellement une relation entre 2 objet proche l’un de l’autre
 
 "Image a placer" : https://vidi.no/wp-content/uploads/2020/05/gestalt-naerhet-768x322.png
 
 Le principe de symétrie
+
 L’oeil associe 2 objets symétriques comme un même groupe unifié
 
 "Image a placer" : https://vidi.no/wp-content/uploads/2020/05/symmetri.png
 
 Le principe figure-fond
+
 L’esprit sépare naturellement un objet de son fond (background)
 
 "Image a placer" : https://tse4.mm.bing.net/th?id=OIP.SqRpznuTeQK_Qh4837_YqQHaIO&pid=Api&P=0
@@ -57,3 +64,41 @@ https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
 https://vidi.no/fr/blog-fr/gestaltprinsipper-i-ui-design/
 
 
+Mon potentiel projet d'avenir : 
+L'une des voie que j'affectionne our le moment est le web design et ses techniques, voila pourquoi je souhaite devenir devenir Web designer pour le moment mais ce choix n'est pas definitif car il me reste encore quelques années avant de finir mes études et je ne souhaite donc pas me focaliser sur un seul domaine
+
+Le lien entre mon projet d'avenir et mon sujet : 
+
+Quest ce que l'UI Design : 
+Le terme UI fait référence à l’interface par le biais de laquelle l’utilisateur interagit : être un site web, une application mobile ou un logiciel. Le travail de l’UI designer est important pour toute entreprise ou organisation souhaitant marquer sa présence sur le web.
+
+UI est l’abréviation d’user interface ou interface utilisateur. L’UI design se rapporte donc à l’environnement graphique dans lequel évolue l’utilisateur d’un logiciel, d’un site web ou d’une application.
+
+La mission de l’UI designer consiste à créer une interface agréable et pratique, facile à prendre en main.
+
+Ainsi, l’UI design fait partie de l’UX design, en cela qu’il travaille à donner la meilleure expérience possible à l’utilisateur, mais il s’attache plus particulièrement aux éléments perceptibles : éléments graphiques, boutons, navigation, typographie…
+
+
+Comment le principe de symétrie s’applique-t-il a l'UI-design?
+
+
+- Les éléments symétriques sont simples, harmonieux et visuellement agréables. Nos yeux recherchent ces qualités avec l’ordre et la stabilité, pour donner un sens au monde. Pour cette raison, la symétrie est un outil utile pour communiquer des informations rapidement et efficacement. La symétrie est confortable et nous aide à nous concentrer sur ce qui est important.
+Les compositions symétriques sont satisfaisantes, mais elles peuvent aussi être un peu ternes et statiques. La symétrie visuelle a tendance à être plus dynamique et intéressante. L’ajout d’un élément asymétrique à une conception autrement symétrique peut aider à attirer l’attention tout en faisant une impression; quelque chose d’utile pour tous les endroits intéressants ou par exemple un appel à l’action.
+La symétrie, associée à une bonne asymétrie, est importante dans toute conception.
+
+- Comme l'indique le principe de fermeture, lorsqu'il est présenté avec la bonne quantité d'informations, notre cerveau sautera aux conclusions en comblant les lacunes et en créant un tout unifié. De cette façon, nous pouvons réduire le nombre d'éléments nécessaires pour communiquer des informations, réduire la complexité et rendre les conceptions plus attrayantes.
+
+- Les éléments symétriques sont simples, harmonieux et visuellement agréables. Nos yeux recherchent ces attributs ainsi que l'ordre et la stabilité
+L'ajout d'un élément asymétrique à un design autrement symétrique peut aider à attirer l'attention tout en faisant bonne impression
+"Image a placer" : https://miro.medium.com/max/828/1*EoFv3rd9OddikEdgXa59jA.webp
+
+- La continuité nous aide à interpréter la direction et le mouvement à travers une composition. Cela a lieu lors de l'alignement des éléments et cela peut aider nos yeux à se déplacer en douceur sur la page, ce qui contribue à la lisibilité. Le principe de continuité renforce la perception des informations groupées, créant de l'ordre et guidant les utilisateurs à travers différents segments de contenu. Une interruption de la continuité peut signaler la fin d'une section attirant l'attention sur un nouveau contenu.
+
+Conclusion
+La conception de l'interface utilisateur ne se limite pas à de jolis pixels et à des graphismes étincelants. Il s'agit principalement de communication, de performance et de commodité. Les principes de la Gestalt sont toujours d'actualité pour nous aider à atteindre ces objectifs ; créant une expérience agréable pour les utilisateurs et un grand succès pour l'entreprise.
+
+Source : 
+https://www.lachouettecreative.com/design-ui-comment-exploiter-la-theorie-de-la-gestalt/
+https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+https://datastudiofr.com/les-6-principes-de-la-gestalt/
+https://vidi.no/fr/blog-fr/gestaltprinsipper-i-ui-design/
