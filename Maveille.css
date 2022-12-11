@@ -11,7 +11,6 @@
 h1
 {
     font-size: 50px;
-    background-color: green;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -34,10 +33,16 @@ h3
     text-decoration: underline;
 }
 
+h4
+{
+    text-align: center;
+    background-color: pink;
+    text-decoration: underline;
+}
+
 p
 {
     text-align: center;
-    text-align: justify;
     padding: 15px;
     font-size: larger;
 }
@@ -49,9 +54,19 @@ li
     font-size: larger;
 }
 
+img
+{
+    display: block;
+    margin: auto;
+}
 
-
-.intro
+.part ul
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+#intro
 {
     padding-right: 200px;
     padding-left: 200px;    
@@ -59,31 +74,43 @@ li
     
 }
 
-.intro .etape p
+#intro .etape p
 {
     padding-top: 5px;
     text-align: center;
 
 }
 
-.intro .etape h3
+#intro .etape h3
 {
     text-align: center;
     background-color: aquamarine;
     text-decoration: underline;
 }
 
-.sujet
+#sujet
 {
     padding-right: 200px;
     padding-left: 200px; 
     background-color: yellow;
 }
 
-.sujet .principe
+#source
 {
+    background-color: rgb(145, 47, 145);
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
+
+#source a 
+{
+    color: black;
+    font-weight: bold;
+}
+test
+
+
+
 
 

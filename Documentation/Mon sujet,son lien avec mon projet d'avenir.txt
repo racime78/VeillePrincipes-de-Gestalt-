@@ -1,4 +1,4 @@
-Mon sujet : Le principe de Gestalt utilisé en web design (Data Visualisation / UX Design.)
+Mon sujet : Le principe de Gestalt utilisé en web design (Data Visualisation / UI Design.)
 
 
 Intro :
@@ -11,10 +11,7 @@ Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléme
 
 Quest-ce que le principe de Gestalt : 
 
-
 La Gestalt est une théorie de la Forme (théorisée en 1920 par Max Wertheimer, Wolfgang Köhler et Kurt Koffka): elle vise à identifier une Forme qui cherche à émerger du Fond. Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié » quand certains principes s’appliquent.
-
-
 Cette théorie émet l’hypothèse qu’un humain tend à organiser des éléments visuels en un « tout unifié » quand certains principes s’appliquent.
 
 Les 6 principes fondamentaux
@@ -57,13 +54,6 @@ L’esprit sépare naturellement un objet de son fond (background)
 
 "Image a placer" : https://tse4.mm.bing.net/th?id=OIP.SqRpznuTeQK_Qh4837_YqQHaIO&pid=Api&P=0
 
-
-Source : 
-https://datastudiofr.com/les-6-principes-de-la-gestalt/
-https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
-https://vidi.no/fr/blog-fr/gestaltprinsipper-i-ui-design/
-
-
 Mon potentiel projet d'avenir : 
 L'une des voie que j'affectionne our le moment est le web design et ses techniques, voila pourquoi je souhaite devenir devenir Web designer pour le moment mais ce choix n'est pas definitif car il me reste encore quelques années avant de finir mes études et je ne souhaite donc pas me focaliser sur un seul domaine
 
@@ -98,7 +88,33 @@ Conclusion
 La conception de l'interface utilisateur ne se limite pas à de jolis pixels et à des graphismes étincelants. Il s'agit principalement de communication, de performance et de commodité. Les principes de la Gestalt sont toujours d'actualité pour nous aider à atteindre ces objectifs ; créant une expérience agréable pour les utilisateurs et un grand succès pour l'entreprise.
 
 Source : 
+
+
+
+
+
+
+https://blog.link-value.fr/top-des-sources-tech-%C3%A0-suivre-pour-faire-sa-veille-technologique-8d6e5a1b3373
+ 
+https://www.maxicours.com/se/cours/proceder-a-une-veille-technologique/
+
+https://jobphoning.com/dictionnaire/veille-technologique#
+
+https://datascientest.com/veille-technologique-definition
+
 https://www.lachouettecreative.com/design-ui-comment-exploiter-la-theorie-de-la-gestalt/
+
 https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
 https://datastudiofr.com/les-6-principes-de-la-gestalt/
+
 https://vidi.no/fr/blog-fr/gestaltprinsipper-i-ui-design/
+
+https://99designs.fr/blog/conseils-design/theorie-gestalt/
+
+https://limoserviceinneworleans.com/fr/am%C3%A9liorez-vos-conceptions-avec-les-principes-de-fermeture-et-de-figure-ground-partie-2/
+
+
+
+
+
