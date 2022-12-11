@@ -4,10 +4,14 @@
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
-  list-style: none;
-  
+  list-style: none;  
 }
 
+body
+{
+    background-color: rgb(172, 210, 240);
+
+}
 h1
 {
     font-size: 50px;
@@ -20,7 +24,6 @@ h1
  h2
 {
     font-size: 30px;
-    background-color: blue;
     padding: 10px;
     text-align: center;
     text-decoration: underline;
@@ -28,15 +31,15 @@ h1
 
 h3
 {
+    padding: 10px;
     text-align: center;
-    background-color: aquamarine;
     text-decoration: underline;
 }
 
 h4
 {
+    padding: 10px;
     text-align: center;
-    background-color: pink;
     text-decoration: underline;
 }
 
@@ -54,12 +57,29 @@ li
     font-size: larger;
 }
 
+hr
+{
+    border: 0;
+	border-top: 20px solid rgb(93, 144, 206);
+    width: 100%;
+}
+
 img
 {
     display: block;
     margin: auto;
+    margin-bottom: 10px;
 }
 
+.part
+{
+    background-color:rgb(23, 23, 60);
+}
+
+.part a
+{
+    color: white;
+}
 .part ul
 {
     justify-content: center;
@@ -70,45 +90,53 @@ img
 {
     padding-right: 200px;
     padding-left: 200px;    
-    background-color: red;
+    background-color: rgb(172, 210, 240);
     
 }
+
 
 #intro .etape p
 {
     padding-top: 5px;
     text-align: center;
-
 }
 
 #intro .etape h3
 {
     text-align: center;
-    background-color: aquamarine;
     text-decoration: underline;
+}
+
+.cadre
+{
+    border-width:1px;
+    border-style: double;
+    border-color:black;
+    margin: 15px;
 }
 
 #sujet
 {
-    padding-right: 200px;
-    padding-left: 200px; 
-    background-color: yellow;
+    background-color: rgb(172, 210, 240);
 }
 
 #source
 {
-    background-color: rgb(145, 47, 145);
+    background-color: rgb(23, 23, 60);
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 20px;
 }
 
-#source a 
+
+
+#source a, #source h2
 {
-    color: black;
+    color: white;
+    padding-bottom: 10px;
     font-weight: bold;
 }
-test
 
 
 
