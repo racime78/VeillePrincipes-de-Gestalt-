@@ -11,30 +11,31 @@
 
 body
 {
-    background-color: rgb(172, 210, 240);
+    background-color: #d8dcf1;
 }
 h1
 {
     font-size: 50px;
     text-align: center;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    
     text-decoration: underline;
 }
 
  h2
 {
+    background-color:#8995d6;
+    color: white;
     font-size: 30px;
     padding: 10px;
     text-align: center;
-    text-decoration: underline;
 }
 
 h3
 {
+    background-color:#b1b8e3;
     padding: 10px;
     text-align: center;
-    text-decoration: underline;
+    color: white;
 }
 
 h4
@@ -51,48 +52,53 @@ p
     font-size: larger;
 }
 
+ul
+{
+ text-align: center;
+ margin: 3vh;
+}
 li
 {
     text-justify: auto;
-    padding: 15px;
     font-size: larger;
 }
 
-hr
-{
-    border: 0;
-	border-top: 20px solid rgb(93, 144, 206);
-    width: 100%;
-}
 
 img
 {
     display: block;
     margin: auto;
-    margin-bottom: 10px;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
 }
 
-.part
+.menu
 {
-    background-color:rgb(23, 23, 60);
+    padding-top: 2vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    background-color:#3f51b5 ;
+    color: white;
+    text-align: center;
 }
 
-.part a
+.menu a
 {
     color: white;
+
 }
-.part ul
+.menu li
 {
+    padding: 2vh;
     justify-content: center;
-    display: flex;
+    display: inline-block;
     flex-direction: row;
 }
-#intro
+#intro p
 {
-    padding-right: 200px;
-    padding-left: 200px;    
-    background-color: rgb(172, 210, 240);
-    
+    width: 60%;
+    text-align: left;
+    margin: auto;    
 }
 
 
@@ -100,12 +106,6 @@ img
 {
     padding-top: 5px;
     text-align: center;
-}
-
-#intro .etape h3
-{
-    text-align: center;
-    text-decoration: underline;
 }
 
 .cadre
@@ -118,7 +118,6 @@ img
 
 #sujet
 {
-    background-color: rgb(172, 210, 240);
 }
 
 #source
@@ -130,6 +129,11 @@ img
     padding: 20px;
 }
 
+.lien
+{
+    display: inline;
+}
+
 
 
 #source a, #source h2
@@ -137,6 +141,7 @@ img
     color: white;
     padding-bottom: 10px;
     font-weight: bold;
+    background-color: transparent;
 }
 
 
